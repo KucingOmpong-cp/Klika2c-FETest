@@ -1,0 +1,40 @@
+{
+    "data":[
+        {
+            "id": 0,
+            "testimonials": "Alhamdulillah, KlikACC memberikan saya kesempatan untuk mendapatkan dana agar saya dapat memulai pekerjaan saya bercocok tanam",
+            "name": "Agung",
+            "jobs": "Petani Kelapa",
+            "saldo": 25000000,
+            "time": 5,
+            "image": "image-1"
+        },
+        {
+            "id": 1,
+            "testimonials": "Alhamdulillah, KlikACC memberikan saya kesempatan untuk mendapatkan dana agar saya dapat memulai pekerjaan saya bercocok tanam",
+            "name": "Agung",
+            "jobs": "Petani Kelapa",
+            "saldo": 25000000,
+            "time": 5,
+            "image": "image-2"
+        },
+        {
+            "id": 2,
+            "testimonials": "Alhamdulillah, KlikACC memberikan saya kesempatan untuk mendapatkan dana agar saya dapat memulai pekerjaan saya bercocok tanam",
+            "name": "Agung",
+            "jobs": "Petani Kelapa",
+            "saldo": 25000000,
+            "time": 5,
+            "image": "image-3"
+        },
+        {
+            "id": 3,
+            "testimonials": "Alhamdulillah, KlikACC memberikan saya kesempatan untuk mendapatkan dana agar saya dapat memulai pekerjaan saya bercocok tanam",
+            "name": "Agung",
+            "jobs": "Petani Kelapa",
+            "saldo": 25000000,
+            "time": 5,
+            "image": "image-4"
+        }
+    ]
+}
